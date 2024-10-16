@@ -1,0 +1,11 @@
+.Parent{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MainFrame{
+    height: 100%;
+    width: 90%;
+    background-color: aqua;
+}
